@@ -7,4 +7,3 @@ Landsat res. 30m.
 
 Composición y análisis: alfonso rincon barrera
 
-https://diarco.azurewebsites.net/
